@@ -1,0 +1,2 @@
+[tool.poetry.scripts]
+agent-kom = "cli:main"
